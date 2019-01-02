@@ -1,0 +1,10 @@
+c:\users\danielglasner\source\repos\automating\automating\bin\Debug\automating.exe.config
+c:\users\danielglasner\source\repos\automating\automating\bin\Debug\automating.exe
+c:\users\danielglasner\source\repos\automating\automating\bin\Debug\automating.pdb
+c:\users\danielglasner\source\repos\automating\automating\obj\Debug\automating.csprojResolveAssemblyReference.cache
+c:\users\danielglasner\source\repos\automating\automating\obj\Debug\automating.Form1.resources
+c:\users\danielglasner\source\repos\automating\automating\obj\Debug\automating.Properties.Resources.resources
+c:\users\danielglasner\source\repos\automating\automating\obj\Debug\automating.csproj.GenerateResource.cache
+c:\users\danielglasner\source\repos\automating\automating\obj\Debug\automating.csproj.CoreCompileInputs.cache
+c:\users\danielglasner\source\repos\automating\automating\obj\Debug\automating.exe
+c:\users\danielglasner\source\repos\automating\automating\obj\Debug\automating.pdb
